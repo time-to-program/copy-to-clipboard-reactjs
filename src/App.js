@@ -48,7 +48,7 @@ function App() {
               setIsCopied(true);
               setTimeout(() => {
                 setIsCopied(false);
-              }, 1000);
+              }, 1100);
             }}
             className="btn"
           >
